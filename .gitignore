@@ -1,7 +1,11 @@
+#aws
+.aws/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
 *$py.class
+*.pkl
 
 # C extensions
 *.so
